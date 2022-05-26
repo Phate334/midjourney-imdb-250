@@ -1,0 +1,1755 @@
+{
+    "movies": [{
+            "rank": 1,
+            "title": "The Shawshank Redemption",
+            "title_tw": "刺激1995",
+            "presentation": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "url": "https://www.imdb.com/title/tt0111161/"
+        },
+        {
+            "rank": 2,
+            "title": "The Godfather",
+            "title_tw": "教父",
+            "presentation": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+            "url": "https://www.imdb.com/title/tt0068646/"
+        },
+        {
+            "rank": 3,
+            "title": "The Dark Knight",
+            "title_tw": "黑暗騎士",
+            "presentation": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "url": "https://www.imdb.com/title/tt0468569/"
+        },
+        {
+            "rank": 4,
+            "title": "The Godfather",
+            "title_tw": "教父第二集",
+            "presentation": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+            "url": "https://www.imdb.com/title/tt0071562/"
+        },
+        {
+            "rank": 5,
+            "title": "12 Angry Men",
+            "title_tw": "十二怒漢",
+            "presentation": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+            "url": "https://www.imdb.com/title/tt0050083/"
+        },
+        {
+            "rank": 6,
+            "title": "Schindler's List",
+            "title_tw": "辛德勒的名單",
+            "presentation": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+            "url": "https://www.imdb.com/title/tt0108052/"
+        },
+        {
+            "rank": 7,
+            "title": "The Lord of the Rings",
+            "title_tw": "魔戒三部曲：王者再臨",
+            "presentation": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+            "url": "https://www.imdb.com/title/tt0167260/"
+        },
+        {
+            "rank": 8,
+            "title": "Pulp Fiction",
+            "title_tw": "黑色追緝令",
+            "presentation": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "url": "https://www.imdb.com/title/tt0110912/"
+        },
+        {
+            "rank": 9,
+            "title": "The Lord of the Rings",
+            "title_tw": "魔戒首部曲：魔戒現身",
+            "presentation": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+            "url": "https://www.imdb.com/title/tt0120737/"
+        },
+        {
+            "rank": 10,
+            "title": "Il buono, il brutto, il cattivo",
+            "title_tw": "黃昏三鏢客",
+            "presentation": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+            "url": "https://www.imdb.com/title/tt0060196/"
+        },
+        {
+            "rank": 11,
+            "title": "Forrest Gump",
+            "title_tw": "阿甘正傳",
+            "presentation": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+            "url": "https://www.imdb.com/title/tt0109830/"
+        },
+        {
+            "rank": 12,
+            "title": "Fight Club",
+            "title_tw": "鬥陣俱樂部",
+            "presentation": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+            "url": "https://www.imdb.com/title/tt0137523/"
+        },
+        {
+            "rank": 13,
+            "title": "Inception",
+            "title_tw": "全面啟動",
+            "presentation": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+            "url": "https://www.imdb.com/title/tt1375666/"
+        },
+        {
+            "rank": 14,
+            "title": "The Lord of the Rings",
+            "title_tw": "魔戒二部曲：雙城奇謀",
+            "presentation": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+            "url": "https://www.imdb.com/title/tt0167261/"
+        },
+        {
+            "rank": 15,
+            "title": "The Empire Strikes Back",
+            "title_tw": "星際大戰五部曲：帝國大反擊",
+            "presentation": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+            "url": "https://www.imdb.com/title/tt0080684/"
+        },
+        {
+            "rank": 16,
+            "title": "The Matrix",
+            "title_tw": "駭客任務",
+            "presentation": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+            "url": "https://www.imdb.com/title/tt0133093/"
+        },
+        {
+            "rank": 17,
+            "title": "Goodfellas",
+            "title_tw": "四海好傢伙",
+            "presentation": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+            "url": "https://www.imdb.com/title/tt0099685/"
+        },
+        {
+            "rank": 18,
+            "title": "One Flew Over the Cuckoo's Nest",
+            "title_tw": "飛越杜鵑窩",
+            "presentation": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+            "url": "https://www.imdb.com/title/tt0073486/"
+        },
+        {
+            "rank": 19,
+            "title": "Se7en",
+            "title_tw": "火線追緝令",
+            "presentation": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+            "url": "https://www.imdb.com/title/tt0114369/"
+        },
+        {
+            "rank": 20,
+            "title": "Shichinin no samurai",
+            "title_tw": "七武士",
+            "presentation": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+            "url": "https://www.imdb.com/title/tt0047478/"
+        },
+        {
+            "rank": 21,
+            "title": "It's a Wonderful Life",
+            "title_tw": "風雲人物",
+            "presentation": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+            "url": "https://www.imdb.com/title/tt0038650/"
+        },
+        {
+            "rank": 22,
+            "title": "The Silence of the Lambs",
+            "title_tw": "沉默的羔羊",
+            "presentation": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+            "url": "https://www.imdb.com/title/tt0102926/"
+        },
+        {
+            "rank": 23,
+            "title": "Cidade de Deus",
+            "title_tw": "無法無天",
+            "presentation": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+            "url": "https://www.imdb.com/title/tt0317248/"
+        },
+        {
+            "rank": 24,
+            "title": "Saving Private Ryan",
+            "title_tw": "搶救雷恩大兵",
+            "presentation": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+            "url": "https://www.imdb.com/title/tt0120815/"
+        },
+        {
+            "rank": 25,
+            "title": "La vita è bella",
+            "title_tw": "美麗人生",
+            "presentation": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+            "url": "https://www.imdb.com/title/tt0118799/"
+        },
+        {
+            "rank": 26,
+            "title": "The Green Mile",
+            "title_tw": "綠色奇蹟",
+            "presentation": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+            "url": "https://www.imdb.com/title/tt0120689/"
+        },
+        {
+            "rank": 27,
+            "title": "Star Wars",
+            "title_tw": "星際大戰",
+            "presentation": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+            "url": "https://www.imdb.com/title/tt0076759/"
+        },
+        {
+            "rank": 28,
+            "title": "Interstellar",
+            "title_tw": "星際效應",
+            "presentation": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "url": "https://www.imdb.com/title/tt0816692/"
+        },
+        {
+            "rank": 29,
+            "title": "Terminator 2",
+            "title_tw": "魔鬼終結者2",
+            "presentation": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.",
+            "url": "https://www.imdb.com/title/tt0103064/"
+        },
+        {
+            "rank": 30,
+            "title": "Back to the Future",
+            "title_tw": "回到未來",
+            "presentation": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+            "url": "https://www.imdb.com/title/tt0088763/"
+        },
+        {
+            "rank": 31,
+            "title": "Sen to Chihiro no kamikakushi",
+            "title_tw": "神隱少女",
+            "presentation": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+            "url": "https://www.imdb.com/title/tt0245429/"
+        },
+        {
+            "rank": 32,
+            "title": "Psycho",
+            "title_tw": "驚魂記",
+            "presentation": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+            "url": "https://www.imdb.com/title/tt0054215/"
+        },
+        {
+            "rank": 33,
+            "title": "The Pianist",
+            "title_tw": "戰地琴人",
+            "presentation": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+            "url": "https://www.imdb.com/title/tt0253474/"
+        },
+        {
+            "rank": 34,
+            "title": "Léon",
+            "title_tw": "終極追殺令",
+            "presentation": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+            "url": "https://www.imdb.com/title/tt0110413/"
+        },
+        {
+            "rank": 35,
+            "title": "Gisaengchung",
+            "title_tw": "寄生上流",
+            "presentation": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "url": "https://www.imdb.com/title/tt6751668/"
+        },
+        {
+            "rank": 36,
+            "title": "The Lion King",
+            "title_tw": "獅子王",
+            "presentation": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+            "url": "https://www.imdb.com/title/tt0110357/"
+        },
+        {
+            "rank": 37,
+            "title": "Gladiator",
+            "title_tw": "神鬼戰士",
+            "presentation": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+            "url": "https://www.imdb.com/title/tt0172495/"
+        },
+        {
+            "rank": 38,
+            "title": "American History X",
+            "title_tw": "美國X檔案",
+            "presentation": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+            "url": "https://www.imdb.com/title/tt0120586/"
+        },
+        {
+            "rank": 39,
+            "title": "The Usual Suspects",
+            "title_tw": "刺激驚爆點",
+            "presentation": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+            "url": "https://www.imdb.com/title/tt0114814/"
+        },
+        {
+            "rank": 40,
+            "title": "The Departed",
+            "title_tw": "神鬼無間",
+            "presentation": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+            "url": "https://www.imdb.com/title/tt0407887/"
+        },
+        {
+            "rank": 41,
+            "title": "The Prestige",
+            "title_tw": "頂尖對決",
+            "presentation": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+            "url": "https://www.imdb.com/title/tt0482571/"
+        },
+        {
+            "rank": 42,
+            "title": "Casablanca",
+            "title_tw": "北非諜影",
+            "presentation": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+            "url": "https://www.imdb.com/title/tt0034583/"
+        },
+        {
+            "rank": 43,
+            "title": "Whiplash",
+            "title_tw": "進擊的鼓手",
+            "presentation": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+            "url": "https://www.imdb.com/title/tt2582802/"
+        },
+        {
+            "rank": 44,
+            "title": "Intouchables",
+            "title_tw": "逆轉人生",
+            "presentation": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+            "url": "https://www.imdb.com/title/tt1675434/"
+        },
+        {
+            "rank": 45,
+            "title": "Modern Times",
+            "title_tw": "摩登時代",
+            "presentation": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+            "url": "https://www.imdb.com/title/tt0027977/"
+        },
+        {
+            "rank": 46,
+            "title": "Seppuku",
+            "title_tw": "切腹",
+            "presentation": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+            "url": "https://www.imdb.com/title/tt0056058/"
+        },
+        {
+            "rank": 47,
+            "title": "C'era una volta il West",
+            "title_tw": "狂沙十萬里",
+            "presentation": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+            "url": "https://www.imdb.com/title/tt0064116/"
+        },
+        {
+            "rank": 48,
+            "title": "Hotaru no haka",
+            "title_tw": "螢火蟲之墓",
+            "presentation": "A young boy and his little sister struggle to survive in Japan during World War II.",
+            "url": "https://www.imdb.com/title/tt0095327/"
+        },
+        {
+            "rank": 49,
+            "title": "Rear Window",
+            "title_tw": "後窗",
+            "presentation": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+            "url": "https://www.imdb.com/title/tt0047396/"
+        },
+        {
+            "rank": 50,
+            "title": "Alien",
+            "title_tw": "異形",
+            "presentation": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+            "url": "https://www.imdb.com/title/tt0078748/"
+        },
+        {
+            "rank": 51,
+            "title": "City Lights",
+            "title_tw": "城市之光",
+            "presentation": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+            "url": "https://www.imdb.com/title/tt0021749/"
+        },
+        {
+            "rank": 52,
+            "title": "Nuovo Cinema Paradiso",
+            "title_tw": "新天堂樂園",
+            "presentation": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+            "url": "https://www.imdb.com/title/tt0095765/"
+        },
+        {
+            "rank": 53,
+            "title": "Memento",
+            "title_tw": "記憶拼圖",
+            "presentation": "A man with short-term memory loss attempts to track down his wife's murderer.",
+            "url": "https://www.imdb.com/title/tt0209144/"
+        },
+        {
+            "rank": 54,
+            "title": "Apocalypse Now",
+            "title_tw": "現代啟示錄",
+            "presentation": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+            "url": "https://www.imdb.com/title/tt0078788/"
+        },
+        {
+            "rank": 55,
+            "title": "Raiders of the Lost Ark",
+            "title_tw": "法櫃奇兵",
+            "presentation": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+            "url": "https://www.imdb.com/title/tt0082971/"
+        },
+        {
+            "rank": 56,
+            "title": "Django Unchained",
+            "title_tw": "決殺令",
+            "presentation": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+            "url": "https://www.imdb.com/title/tt1853728/"
+        },
+        {
+            "rank": 57,
+            "title": "WALL·E",
+            "title_tw": "瓦力",
+            "presentation": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+            "url": "https://www.imdb.com/title/tt0910970/"
+        },
+        {
+            "rank": 58,
+            "title": "Das Leben der Anderen",
+            "title_tw": "竊聽風暴",
+            "presentation": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+            "url": "https://www.imdb.com/title/tt0405094/"
+        },
+        {
+            "rank": 59,
+            "title": "Sunset Blvd.",
+            "title_tw": "日落大道",
+            "presentation": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+            "url": "https://www.imdb.com/title/tt0043014/"
+        },
+        {
+            "rank": 60,
+            "title": "Paths of Glory",
+            "title_tw": "光榮之路",
+            "presentation": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+            "url": "https://www.imdb.com/title/tt0050825/"
+        },
+        {
+            "rank": 61,
+            "title": "The Shining",
+            "title_tw": "鬼店",
+            "presentation": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+            "url": "https://www.imdb.com/title/tt0081505/"
+        },
+        {
+            "rank": 62,
+            "title": "The Great Dictator",
+            "title_tw": "大獨裁者",
+            "presentation": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+            "url": "https://www.imdb.com/title/tt0032553/"
+        },
+        {
+            "rank": 63,
+            "title": "Witness for the Prosecution",
+            "title_tw": "情婦",
+            "presentation": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+            "url": "https://www.imdb.com/title/tt0051201/"
+        },
+        {
+            "rank": 64,
+            "title": "Avengers",
+            "title_tw": "復仇者聯盟：無限之戰",
+            "presentation": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "url": "https://www.imdb.com/title/tt4154756/"
+        },
+        {
+            "rank": 65,
+            "title": "Aliens",
+            "title_tw": "異形2",
+            "presentation": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+            "url": "https://www.imdb.com/title/tt0090605/"
+        },
+        {
+            "rank": 66,
+            "title": "American Beauty",
+            "title_tw": "美國心玫瑰情",
+            "presentation": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+            "url": "https://www.imdb.com/title/tt0169547/"
+        },
+        {
+            "rank": 67,
+            "title": "Dr. Strangelove or",
+            "title_tw": "奇愛博士",
+            "presentation": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+            "url": "https://www.imdb.com/title/tt0057012/"
+        },
+        {
+            "rank": 68,
+            "title": "The Dark Knight Rises",
+            "title_tw": "黑暗騎士：黎明昇起",
+            "presentation": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+            "url": "https://www.imdb.com/title/tt1345836/"
+        },
+        {
+            "rank": 69,
+            "title": "Spider-Man",
+            "title_tw": "蜘蛛人：新宇宙",
+            "presentation": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+            "url": "https://www.imdb.com/title/tt4633694/"
+        },
+        {
+            "rank": 70,
+            "title": "Joker",
+            "title_tw": "小丑",
+            "presentation": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+            "url": "https://www.imdb.com/title/tt7286456/"
+        },
+        {
+            "rank": 71,
+            "title": "Oldeuboi",
+            "title_tw": "原罪犯",
+            "presentation": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+            "url": "https://www.imdb.com/title/tt0364569/"
+        },
+        {
+            "rank": 72,
+            "title": "Everything Everywhere All at Once",
+            "title_tw": "媽的多重宇宙",
+            "presentation": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes connecting with the lives she could have led.",
+            "url": "https://www.imdb.com/title/tt6710474/"
+        },
+        {
+            "rank": 73,
+            "title": "Braveheart",
+            "title_tw": "梅爾吉勃遜之英雄本色",
+            "presentation": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+            "url": "https://www.imdb.com/title/tt0112573/"
+        },
+        {
+            "rank": 74,
+            "title": "Amadeus",
+            "title_tw": "阿瑪迪斯",
+            "presentation": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+            "url": "https://www.imdb.com/title/tt0086879/"
+        },
+        {
+            "rank": 75,
+            "title": "Toy Story",
+            "title_tw": "玩具總動員",
+            "presentation": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+            "url": "https://www.imdb.com/title/tt0114709/"
+        },
+        {
+            "rank": 76,
+            "title": "Coco",
+            "title_tw": "可可夜總會",
+            "presentation": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "url": "https://www.imdb.com/title/tt2380307/"
+        },
+        {
+            "rank": 77,
+            "title": "Das Boot",
+            "title_tw": "從海底出擊",
+            "presentation": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+            "url": "https://www.imdb.com/title/tt0082096/"
+        },
+        {
+            "rank": 78,
+            "title": "Inglourious Basterds",
+            "title_tw": "惡棍特工",
+            "presentation": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+            "url": "https://www.imdb.com/title/tt0361748/"
+        },
+        {
+            "rank": 79,
+            "title": "Mononoke-hime",
+            "title_tw": "魔法公主",
+            "presentation": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+            "url": "https://www.imdb.com/title/tt0119698/"
+        },
+        {
+            "rank": 80,
+            "title": "Once Upon a Time in America",
+            "title_tw": "四海兄弟",
+            "presentation": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+            "url": "https://www.imdb.com/title/tt0087843/"
+        },
+        {
+            "rank": 81,
+            "title": "Avengers",
+            "title_tw": "復仇者聯盟：終局之戰",
+            "presentation": "After the devastating events of 復仇者聯盟：無限之戰 (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "url": "https://www.imdb.com/title/tt4154796/"
+        },
+        {
+            "rank": 82,
+            "title": "Good Will Hunting",
+            "title_tw": "心靈捕手",
+            "presentation": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+            "url": "https://www.imdb.com/title/tt0119217/"
+        },
+        {
+            "rank": 83,
+            "title": "Requiem for a Dream",
+            "title_tw": "噩夢輓歌",
+            "presentation": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+            "url": "https://www.imdb.com/title/tt0180093/"
+        },
+        {
+            "rank": 84,
+            "title": "Toy Story 3",
+            "title_tw": "玩具總動員3",
+            "presentation": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+            "url": "https://www.imdb.com/title/tt0435761/"
+        },
+        {
+            "rank": 85,
+            "title": "Singin' in the Rain",
+            "title_tw": "萬花嬉春",
+            "presentation": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+            "url": "https://www.imdb.com/title/tt0045152/"
+        },
+        {
+            "rank": 86,
+            "title": "Kimi no na wa.",
+            "title_tw": "你的名字",
+            "presentation": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+            "url": "https://www.imdb.com/title/tt5311514/"
+        },
+        {
+            "rank": 87,
+            "title": "3 Idiots",
+            "title_tw": "三個傻瓜",
+            "presentation": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+            "url": "https://www.imdb.com/title/tt1187043/"
+        },
+        {
+            "rank": 88,
+            "title": "Star Wars",
+            "title_tw": "星際大戰六部曲：絕地大反攻",
+            "presentation": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+            "url": "https://www.imdb.com/title/tt0086190/"
+        },
+        {
+            "rank": 89,
+            "title": "2001",
+            "title_tw": "2001：太空漫遊",
+            "presentation": "The Monoliths push humanity to reach for the stars; after their discovery in Africa generations ago, the mysterious objects lead mankind on an awesome journey to Jupiter, with the help of H.A.L. 9000: the world's greatest supercomputer.",
+            "url": "https://www.imdb.com/title/tt0062622/"
+        },
+        {
+            "rank": 90,
+            "title": "Reservoir Dogs",
+            "title_tw": "霸道橫行",
+            "presentation": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "url": "https://www.imdb.com/title/tt0105236/"
+        },
+        {
+            "rank": 91,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "title_tw": "王牌冤家",
+            "presentation": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+            "url": "https://www.imdb.com/title/tt0338013/"
+        },
+        {
+            "rank": 92,
+            "title": "Tengoku to jigoku",
+            "title_tw": "天國與地獄",
+            "presentation": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+            "url": "https://www.imdb.com/title/tt0057565/"
+        },
+        {
+            "rank": 93,
+            "title": "Citizen Kane",
+            "title_tw": "大國民",
+            "presentation": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+            "url": "https://www.imdb.com/title/tt0033467/"
+        },
+        {
+            "rank": 94,
+            "title": "Capharnaüm",
+            "title_tw": "我想有個家",
+            "presentation": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+            "url": "https://www.imdb.com/title/tt8267604/"
+        },
+        {
+            "rank": 95,
+            "title": "Lawrence of Arabia",
+            "title_tw": "阿拉伯的勞倫斯",
+            "presentation": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+            "url": "https://www.imdb.com/title/tt0056172/"
+        },
+        {
+            "rank": 96,
+            "title": "Jagten",
+            "title_tw": "謊言的烙印",
+            "presentation": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+            "url": "https://www.imdb.com/title/tt2106476/"
+        },
+        {
+            "rank": 97,
+            "title": "M - Eine Stadt sucht einen Mörder",
+            "title_tw": "M就是兇手",
+            "presentation": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+            "url": "https://www.imdb.com/title/tt0022100/"
+        },
+        {
+            "rank": 98,
+            "title": "North by Northwest",
+            "title_tw": "北西北",
+            "presentation": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+            "url": "https://www.imdb.com/title/tt0053125/"
+        },
+        {
+            "rank": 99,
+            "title": "Vertigo",
+            "title_tw": "迷魂記",
+            "presentation": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+            "url": "https://www.imdb.com/title/tt0052357/"
+        },
+        {
+            "rank": 100,
+            "title": "Le fabuleux destin d'Amélie Poulain",
+            "title_tw": "艾蜜莉的異想世界",
+            "presentation": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+            "url": "https://www.imdb.com/title/tt0211915/"
+        },
+        {
+            "rank": 101,
+            "title": "A Clockwork Orange",
+            "title_tw": "發條橘子",
+            "presentation": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+            "url": "https://www.imdb.com/title/tt0066921/"
+        },
+        {
+            "rank": 102,
+            "title": "Idi i smotri",
+            "title_tw": "見證",
+            "presentation": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+            "url": "https://www.imdb.com/title/tt0091251/"
+        },
+        {
+            "rank": 103,
+            "title": "Full Metal Jacket",
+            "title_tw": "金甲部隊",
+            "presentation": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "url": "https://www.imdb.com/title/tt0093058/"
+        },
+        {
+            "rank": 104,
+            "title": "Double Indemnity",
+            "title_tw": "雙重賠償",
+            "presentation": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+            "url": "https://www.imdb.com/title/tt0036775/"
+        },
+        {
+            "rank": 105,
+            "title": "The Apartment",
+            "title_tw": "公寓春光",
+            "presentation": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+            "url": "https://www.imdb.com/title/tt0053604/"
+        },
+        {
+            "rank": 106,
+            "title": "Scarface",
+            "title_tw": "疤面煞星",
+            "presentation": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+            "url": "https://www.imdb.com/title/tt0086250/"
+        },
+        {
+            "rank": 107,
+            "title": "Ikiru",
+            "title_tw": "生之慾",
+            "presentation": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+            "url": "https://www.imdb.com/title/tt0044741/"
+        },
+        {
+            "rank": 108,
+            "title": "To Kill a Mockingbird",
+            "title_tw": "梅崗城故事",
+            "presentation": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.",
+            "url": "https://www.imdb.com/title/tt0056592/"
+        },
+        {
+            "rank": 109,
+            "title": "The Sting",
+            "title_tw": "刺激",
+            "presentation": "Two grifters team up to pull off the ultimate con.",
+            "url": "https://www.imdb.com/title/tt0070735/"
+        },
+        {
+            "rank": 110,
+            "title": "Taxi Driver",
+            "title_tw": "計程車司機",
+            "presentation": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+            "url": "https://www.imdb.com/title/tt0075314/"
+        },
+        {
+            "rank": 111,
+            "title": "Spider-Man",
+            "title_tw": "蜘蛛人：無家日",
+            "presentation": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "url": "https://www.imdb.com/title/tt10872600/"
+        },
+        {
+            "rank": 112,
+            "title": "L.A. Confidential",
+            "title_tw": "鐵面特警隊",
+            "presentation": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+            "url": "https://www.imdb.com/title/tt0119488/"
+        },
+        {
+            "rank": 113,
+            "title": "Up",
+            "title_tw": "天外奇蹟",
+            "presentation": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+            "url": "https://www.imdb.com/title/tt1049413/"
+        },
+        {
+            "rank": 114,
+            "title": "Hamilton",
+            "title_tw": "漢密爾頓",
+            "presentation": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+            "url": "https://www.imdb.com/title/tt8503618/"
+        },
+        {
+            "rank": 115,
+            "title": "Heat",
+            "title_tw": "烈火悍將",
+            "presentation": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+            "url": "https://www.imdb.com/title/tt0113277/"
+        },
+        {
+            "rank": 116,
+            "title": "Metropolis",
+            "title_tw": "大都會",
+            "presentation": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+            "url": "https://www.imdb.com/title/tt0017136/"
+        },
+        {
+            "rank": 117,
+            "title": "Snatch",
+            "title_tw": "偷拐搶騙",
+            "presentation": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+            "url": "https://www.imdb.com/title/tt0208092/"
+        },
+        {
+            "rank": 118,
+            "title": "Jodaeiye Nader az Simin",
+            "title_tw": "分居風暴",
+            "presentation": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+            "url": "https://www.imdb.com/title/tt1832382/"
+        },
+        {
+            "rank": 119,
+            "title": "Die Hard",
+            "title_tw": "終極警探",
+            "presentation": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+            "url": "https://www.imdb.com/title/tt0095016/"
+        },
+        {
+            "rank": 120,
+            "title": "Incendies",
+            "title_tw": "烈火焚身",
+            "presentation": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+            "url": "https://www.imdb.com/title/tt1255953/"
+        },
+        {
+            "rank": 121,
+            "title": "Indiana Jones and the Last Crusade",
+            "title_tw": "聖戰奇兵",
+            "presentation": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+            "url": "https://www.imdb.com/title/tt0097576/"
+        },
+        {
+            "rank": 122,
+            "title": "Ladri di biciclette",
+            "title_tw": "單車失竊記",
+            "presentation": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+            "url": "https://www.imdb.com/title/tt0040522/"
+        },
+        {
+            "rank": 123,
+            "title": "1917",
+            "title_tw": "1917",
+            "presentation": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+            "url": "https://www.imdb.com/title/tt8579674/"
+        },
+        {
+            "rank": 124,
+            "title": "Taare Zameen Par",
+            "title_tw": "心中的小星星",
+            "presentation": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+            "url": "https://www.imdb.com/title/tt0986264/"
+        },
+        {
+            "rank": 125,
+            "title": "Der Untergang",
+            "title_tw": "帝國毀滅",
+            "presentation": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+            "url": "https://www.imdb.com/title/tt0363163/"
+        },
+        {
+            "rank": 126,
+            "title": "Per qualche dollaro in più",
+            "title_tw": "黃昏雙鏢客",
+            "presentation": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+            "url": "https://www.imdb.com/title/tt0059578/"
+        },
+        {
+            "rank": 127,
+            "title": "Batman Begins",
+            "title_tw": "蝙蝠俠：開戰時刻",
+            "presentation": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+            "url": "https://www.imdb.com/title/tt0372784/"
+        },
+        {
+            "rank": 128,
+            "title": "Dangal",
+            "title_tw": "我和我的冠軍女兒",
+            "presentation": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+            "url": "https://www.imdb.com/title/tt5074352/"
+        },
+        {
+            "rank": 129,
+            "title": "The Kid",
+            "title_tw": "孤兒流浪記",
+            "presentation": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+            "url": "https://www.imdb.com/title/tt0012349/"
+        },
+        {
+            "rank": 130,
+            "title": "Some Like It Hot",
+            "title_tw": "熱情如火",
+            "presentation": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+            "url": "https://www.imdb.com/title/tt0053291/"
+        },
+        {
+            "rank": 131,
+            "title": "The Father",
+            "title_tw": "父親",
+            "presentation": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+            "url": "https://www.imdb.com/title/tt10272386/"
+        },
+        {
+            "rank": 132,
+            "title": "All About Eve",
+            "title_tw": "彗星美人",
+            "presentation": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+            "url": "https://www.imdb.com/title/tt0042192/"
+        },
+        {
+            "rank": 133,
+            "title": "Green Book",
+            "title_tw": "幸福綠皮書",
+            "presentation": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+            "url": "https://www.imdb.com/title/tt6966692/"
+        },
+        {
+            "rank": 134,
+            "title": "The Wolf of Wall Street",
+            "title_tw": "華爾街之狼",
+            "presentation": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+            "url": "https://www.imdb.com/title/tt0993846/"
+        },
+        {
+            "rank": 135,
+            "title": "Judgment at Nuremberg",
+            "title_tw": "紐倫堡大審",
+            "presentation": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+            "url": "https://www.imdb.com/title/tt0055031/"
+        },
+        {
+            "rank": 136,
+            "title": "Unforgiven",
+            "title_tw": "殺無赦",
+            "presentation": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+            "url": "https://www.imdb.com/title/tt0105695/"
+        },
+        {
+            "rank": 137,
+            "title": "El laberinto del fauno",
+            "title_tw": "羊男的迷宮",
+            "presentation": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+            "url": "https://www.imdb.com/title/tt0457430/"
+        },
+        {
+            "rank": 138,
+            "title": "Casino",
+            "title_tw": "賭國風雲",
+            "presentation": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+            "url": "https://www.imdb.com/title/tt0112641/"
+        },
+        {
+            "rank": 139,
+            "title": "Ran",
+            "title_tw": "亂",
+            "presentation": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+            "url": "https://www.imdb.com/title/tt0089881/"
+        },
+        {
+            "rank": 140,
+            "title": "There Will Be Blood",
+            "title_tw": "黑金企業",
+            "presentation": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+            "url": "https://www.imdb.com/title/tt0469494/"
+        },
+        {
+            "rank": 141,
+            "title": "The Sixth Sense",
+            "title_tw": "靈異第六感",
+            "presentation": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+            "url": "https://www.imdb.com/title/tt0167404/"
+        },
+        {
+            "rank": 142,
+            "title": "A Beautiful Mind",
+            "title_tw": "美麗境界",
+            "presentation": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+            "url": "https://www.imdb.com/title/tt0268978/"
+        },
+        {
+            "rank": 143,
+            "title": "Monty Python and the Holy Grail",
+            "title_tw": "聖杯傳奇",
+            "presentation": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+            "url": "https://www.imdb.com/title/tt0071853/"
+        },
+        {
+            "rank": 144,
+            "title": "The Truman Show",
+            "title_tw": "楚門的世界",
+            "presentation": "An insurance salesman discovers his whole life is actually a reality TV show.",
+            "url": "https://www.imdb.com/title/tt0120382/"
+        },
+        {
+            "rank": 145,
+            "title": "Yôjinbô",
+            "title_tw": "大鏢客",
+            "presentation": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+            "url": "https://www.imdb.com/title/tt0055630/"
+        },
+        {
+            "rank": 146,
+            "title": "The Treasure of the Sierra Madre",
+            "title_tw": "碧血金沙",
+            "presentation": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+            "url": "https://www.imdb.com/title/tt0040897/"
+        },
+        {
+            "rank": 147,
+            "title": "Rashômon",
+            "title_tw": "羅生門",
+            "presentation": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+            "url": "https://www.imdb.com/title/tt0042876/"
+        },
+        {
+            "rank": 148,
+            "title": "The Great Escape",
+            "title_tw": "第三集中營",
+            "presentation": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+            "url": "https://www.imdb.com/title/tt0057115/"
+        },
+        {
+            "rank": 149,
+            "title": "Shutter Island",
+            "title_tw": "隔離島",
+            "presentation": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+            "url": "https://www.imdb.com/title/tt1130884/"
+        },
+        {
+            "rank": 150,
+            "title": "Jurassic Park",
+            "title_tw": "侏儸紀公園",
+            "presentation": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+            "url": "https://www.imdb.com/title/tt0107290/"
+        },
+        {
+            "rank": 151,
+            "title": "Kill Bill",
+            "title_tw": "追殺比爾",
+            "presentation": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "url": "https://www.imdb.com/title/tt0266697/"
+        },
+        {
+            "rank": 152,
+            "title": "No Country for Old Men",
+            "title_tw": "險路勿近",
+            "presentation": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+            "url": "https://www.imdb.com/title/tt0477348/"
+        },
+        {
+            "rank": 153,
+            "title": "The Elephant Man",
+            "title_tw": "象人",
+            "presentation": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+            "url": "https://www.imdb.com/title/tt0080678/"
+        },
+        {
+            "rank": 154,
+            "title": "Finding Nemo",
+            "title_tw": "海底總動員",
+            "presentation": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+            "url": "https://www.imdb.com/title/tt0266543/"
+        },
+        {
+            "rank": 155,
+            "title": "Raging Bull",
+            "title_tw": "蠻牛",
+            "presentation": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+            "url": "https://www.imdb.com/title/tt0081398/"
+        },
+        {
+            "rank": 156,
+            "title": "Chinatown",
+            "title_tw": "唐人街",
+            "presentation": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+            "url": "https://www.imdb.com/title/tt0071315/"
+        },
+        {
+            "rank": 157,
+            "title": "Gone with the Wind",
+            "title_tw": "亂世佳人",
+            "presentation": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
+            "url": "https://www.imdb.com/title/tt0031381/"
+        },
+        {
+            "rank": 158,
+            "title": "V for Vendetta",
+            "title_tw": "V怪客",
+            "presentation": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+            "url": "https://www.imdb.com/title/tt0434409/"
+        },
+        {
+            "rank": 159,
+            "title": "Inside Out",
+            "title_tw": "腦筋急轉彎",
+            "presentation": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+            "url": "https://www.imdb.com/title/tt2096673/"
+        },
+        {
+            "rank": 160,
+            "title": "The Thing",
+            "title_tw": "突變第三型",
+            "presentation": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "url": "https://www.imdb.com/title/tt0084787/"
+        },
+        {
+            "rank": 161,
+            "title": "Lock, Stock and Two Smoking Barrels",
+            "title_tw": "兩根槍管",
+            "presentation": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+            "url": "https://www.imdb.com/title/tt0120735/"
+        },
+        {
+            "rank": 162,
+            "title": "Dial M for Murder",
+            "title_tw": "電話情殺案",
+            "presentation": "A former tennis star arranges the murder of his adulterous wife.",
+            "url": "https://www.imdb.com/title/tt0046912/"
+        },
+        {
+            "rank": 163,
+            "title": "El secreto de sus ojos",
+            "title_tw": "謎樣的雙眼",
+            "presentation": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+            "url": "https://www.imdb.com/title/tt1305806/"
+        },
+        {
+            "rank": 164,
+            "title": "The Bridge on the River Kwai",
+            "title_tw": "桂河大橋",
+            "presentation": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+            "url": "https://www.imdb.com/title/tt0050212/"
+        },
+        {
+            "rank": 165,
+            "title": "Hauru no ugoku shiro",
+            "title_tw": "霍爾的移動城堡",
+            "presentation": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+            "url": "https://www.imdb.com/title/tt0347149/"
+        },
+        {
+            "rank": 166,
+            "title": "Three Billboards Outside Ebbing, Missouri",
+            "title_tw": "意外",
+            "presentation": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+            "url": "https://www.imdb.com/title/tt5027774/"
+        },
+        {
+            "rank": 167,
+            "title": "Trainspotting",
+            "title_tw": "猜火車",
+            "presentation": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+            "url": "https://www.imdb.com/title/tt0117951/"
+        },
+        {
+            "rank": 168,
+            "title": "Gran Torino",
+            "title_tw": "經典老爺車",
+            "presentation": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+            "url": "https://www.imdb.com/title/tt1205489/"
+        },
+        {
+            "rank": 169,
+            "title": "Warrior",
+            "title_tw": "勇者無敵",
+            "presentation": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+            "url": "https://www.imdb.com/title/tt1291584/"
+        },
+        {
+            "rank": 170,
+            "title": "Fargo",
+            "title_tw": "冰血暴",
+            "presentation": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+            "url": "https://www.imdb.com/title/tt0116282/"
+        },
+        {
+            "rank": 171,
+            "title": "Tonari no Totoro",
+            "title_tw": "龍貓",
+            "presentation": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+            "url": "https://www.imdb.com/title/tt0096283/"
+        },
+        {
+            "rank": 172,
+            "title": "Prisoners",
+            "title_tw": "私法爭鋒",
+            "presentation": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+            "url": "https://www.imdb.com/title/tt1392214/"
+        },
+        {
+            "rank": 173,
+            "title": "Million Dollar Baby",
+            "title_tw": "登峰造擊",
+            "presentation": "A determined woman works with a hardened boxing trainer to become a professional.",
+            "url": "https://www.imdb.com/title/tt0405159/"
+        },
+        {
+            "rank": 174,
+            "title": "The Gold Rush",
+            "title_tw": "淘金記",
+            "presentation": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+            "url": "https://www.imdb.com/title/tt0015864/"
+        },
+        {
+            "rank": 175,
+            "title": "Blade Runner",
+            "title_tw": "銀翼殺手",
+            "presentation": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+            "url": "https://www.imdb.com/title/tt0083658/"
+        },
+        {
+            "rank": 176,
+            "title": "Catch Me If You Can",
+            "title_tw": "神鬼交鋒",
+            "presentation": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+            "url": "https://www.imdb.com/title/tt0264464/"
+        },
+        {
+            "rank": 177,
+            "title": "On the Waterfront",
+            "title_tw": "岸上風雲",
+            "presentation": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+            "url": "https://www.imdb.com/title/tt0047296/"
+        },
+        {
+            "rank": 178,
+            "title": "The Third Man",
+            "title_tw": "黑獄亡魂",
+            "presentation": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+            "url": "https://www.imdb.com/title/tt0041959/"
+        },
+        {
+            "rank": 179,
+            "title": "Bacheha-Ye aseman",
+            "title_tw": "天堂的孩子",
+            "presentation": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+            "url": "https://www.imdb.com/title/tt0118849/"
+        },
+        {
+            "rank": 180,
+            "title": "Ben-Hur",
+            "title_tw": "賓漢",
+            "presentation": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+            "url": "https://www.imdb.com/title/tt0052618/"
+        },
+        {
+            "rank": 181,
+            "title": "The General",
+            "title_tw": "將軍號",
+            "presentation": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.",
+            "url": "https://www.imdb.com/title/tt0017925/"
+        },
+        {
+            "rank": 182,
+            "title": "12 Years a Slave",
+            "title_tw": "自由之心",
+            "presentation": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+            "url": "https://www.imdb.com/title/tt2024544/"
+        },
+        {
+            "rank": 183,
+            "title": "Gone Girl",
+            "title_tw": "控制",
+            "presentation": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "url": "https://www.imdb.com/title/tt2267998/"
+        },
+        {
+            "rank": 184,
+            "title": "Smultronstället",
+            "title_tw": "野草莓",
+            "presentation": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+            "url": "https://www.imdb.com/title/tt0050986/"
+        },
+        {
+            "rank": 185,
+            "title": "Before Sunrise",
+            "title_tw": "愛在黎明破曉時",
+            "presentation": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+            "url": "https://www.imdb.com/title/tt0112471/"
+        },
+        {
+            "rank": 186,
+            "title": "The Deer Hunter",
+            "title_tw": "越戰獵鹿人",
+            "presentation": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+            "url": "https://www.imdb.com/title/tt0077416/"
+        },
+        {
+            "rank": 187,
+            "title": "Harry Potter and the Deathly Hallows",
+            "title_tw": "哈利波特：死神的聖物2",
+            "presentation": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "url": "https://www.imdb.com/title/tt1201607/"
+        },
+        {
+            "rank": 188,
+            "title": "In the Name of the Father",
+            "title_tw": "以父之名",
+            "presentation": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+            "url": "https://www.imdb.com/title/tt0107207/"
+        },
+        {
+            "rank": 189,
+            "title": "The Grand Budapest Hotel",
+            "title_tw": "歡迎來到布達佩斯大飯店",
+            "presentation": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+            "url": "https://www.imdb.com/title/tt2278388/"
+        },
+        {
+            "rank": 190,
+            "title": "Mr. Smith Goes to Washington",
+            "title_tw": "華府風雲",
+            "presentation": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+            "url": "https://www.imdb.com/title/tt0031679/"
+        },
+        {
+            "rank": 191,
+            "title": "Le salaire de la peur",
+            "title_tw": "恐懼的代價",
+            "presentation": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+            "url": "https://www.imdb.com/title/tt0046268/"
+        },
+        {
+            "rank": 192,
+            "title": "Sherlock Jr.",
+            "title_tw": "少年福爾摩斯",
+            "presentation": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+            "url": "https://www.imdb.com/title/tt0015324/"
+        },
+        {
+            "rank": 193,
+            "title": "Barry Lyndon",
+            "title_tw": "亂世兒女",
+            "presentation": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+            "url": "https://www.imdb.com/title/tt0072684/"
+        },
+        {
+            "rank": 194,
+            "title": "Room",
+            "title_tw": "不存在的房間",
+            "presentation": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+            "url": "https://www.imdb.com/title/tt3170832/"
+        },
+        {
+            "rank": 195,
+            "title": "Salinui chueok",
+            "title_tw": "殺人回憶",
+            "presentation": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+            "url": "https://www.imdb.com/title/tt0353969/"
+        },
+        {
+            "rank": 196,
+            "title": "Hacksaw Ridge",
+            "title_tw": "鋼鐵英雄",
+            "presentation": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+            "url": "https://www.imdb.com/title/tt2119532/"
+        },
+        {
+            "rank": 197,
+            "title": "Det sjunde inseglet",
+            "title_tw": "第七封印",
+            "presentation": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+            "url": "https://www.imdb.com/title/tt0050976/"
+        },
+        {
+            "rank": 198,
+            "title": "Klaus",
+            "title_tw": "克勞斯：聖誕節的秘密",
+            "presentation": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+            "url": "https://www.imdb.com/title/tt4729430/"
+        },
+        {
+            "rank": 199,
+            "title": "Relatos salvajes",
+            "title_tw": "生命中最抓狂的小事",
+            "presentation": "Six short stories that explore the extremities of human behavior involving people in distress.",
+            "url": "https://www.imdb.com/title/tt3011894/"
+        },
+        {
+            "rank": 200,
+            "title": "The Big Lebowski",
+            "title_tw": "謀殺綠腳趾",
+            "presentation": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.",
+            "url": "https://www.imdb.com/title/tt0118715/"
+        },
+        {
+            "rank": 201,
+            "title": "How to Train Your Dragon",
+            "title_tw": "馴龍高手",
+            "presentation": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+            "url": "https://www.imdb.com/title/tt0892769/"
+        },
+        {
+            "rank": 202,
+            "title": "Mad Max",
+            "title_tw": "瘋狂麥斯：憤怒道",
+            "presentation": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+            "url": "https://www.imdb.com/title/tt1392190/"
+        },
+        {
+            "rank": 203,
+            "title": "Mary and Max.",
+            "title_tw": "巧克力情緣",
+            "presentation": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+            "url": "https://www.imdb.com/title/tt0978762/"
+        },
+        {
+            "rank": 204,
+            "title": "Monsters, Inc.",
+            "title_tw": "怪獸電力公司",
+            "presentation": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+            "url": "https://www.imdb.com/title/tt0198781/"
+        },
+        {
+            "rank": 205,
+            "title": "Jaws",
+            "title_tw": "大白鯊",
+            "presentation": "When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+            "url": "https://www.imdb.com/title/tt0073195/"
+        },
+        {
+            "rank": 206,
+            "title": "La passion de Jeanne d'Arc",
+            "title_tw": "聖女貞德蒙難記",
+            "presentation": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+            "url": "https://www.imdb.com/title/tt0019254/"
+        },
+        {
+            "rank": 207,
+            "title": "Pather Panchali",
+            "title_tw": "大地之歌",
+            "presentation": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+            "url": "https://www.imdb.com/title/tt0048473/"
+        },
+        {
+            "rank": 208,
+            "title": "Hotel Rwanda",
+            "title_tw": "盧安達飯店",
+            "presentation": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+            "url": "https://www.imdb.com/title/tt0395169/"
+        },
+        {
+            "rank": 209,
+            "title": "Tôkyô monogatari",
+            "title_tw": "東京物語",
+            "presentation": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+            "url": "https://www.imdb.com/title/tt0046438/"
+        },
+        {
+            "rank": 210,
+            "title": "Dead Poets Society",
+            "title_tw": "春風化雨",
+            "presentation": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+            "url": "https://www.imdb.com/title/tt0097165/"
+        },
+        {
+            "rank": 211,
+            "title": "Platoon",
+            "title_tw": "前進高棉",
+            "presentation": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+            "url": "https://www.imdb.com/title/tt0091763/"
+        },
+        {
+            "rank": 212,
+            "title": "Rocky",
+            "title_tw": "洛基",
+            "presentation": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+            "url": "https://www.imdb.com/title/tt0075148/"
+        },
+        {
+            "rank": 213,
+            "title": "Ford v Ferrari",
+            "title_tw": "賽道狂人",
+            "presentation": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+            "url": "https://www.imdb.com/title/tt1950186/"
+        },
+        {
+            "rank": 214,
+            "title": "Stand by Me",
+            "title_tw": "站在我這邊",
+            "presentation": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+            "url": "https://www.imdb.com/title/tt0092005/"
+        },
+        {
+            "rank": 215,
+            "title": "The Terminator",
+            "title_tw": "魔鬼終結者",
+            "presentation": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+            "url": "https://www.imdb.com/title/tt0088247/"
+        },
+        {
+            "rank": 216,
+            "title": "Rush",
+            "title_tw": "決戰終點線",
+            "presentation": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+            "url": "https://www.imdb.com/title/tt1979320/"
+        },
+        {
+            "rank": 217,
+            "title": "Spotlight",
+            "title_tw": "驚爆焦點",
+            "presentation": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+            "url": "https://www.imdb.com/title/tt1895587/"
+        },
+        {
+            "rank": 218,
+            "title": "Into the Wild",
+            "title_tw": "阿拉斯加之死",
+            "presentation": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+            "url": "https://www.imdb.com/title/tt0758758/"
+        },
+        {
+            "rank": 219,
+            "title": "Network",
+            "title_tw": "螢光幕後",
+            "presentation": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+            "url": "https://www.imdb.com/title/tt0074958/"
+        },
+        {
+            "rank": 220,
+            "title": "The Wizard of Oz",
+            "title_tw": "綠野仙蹤",
+            "presentation": "Young Dorothy Gale and her dog are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+            "url": "https://www.imdb.com/title/tt0032138/"
+        },
+        {
+            "rank": 221,
+            "title": "Logan",
+            "title_tw": "羅根",
+            "presentation": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+            "url": "https://www.imdb.com/title/tt3315342/"
+        },
+        {
+            "rank": 222,
+            "title": "Groundhog Day",
+            "title_tw": "今天暫時停止",
+            "presentation": "A self-centered Pittsburgh weatherman finds himself inexplicably trapped in a small town as he lives the same day over and over again.",
+            "url": "https://www.imdb.com/title/tt0107048/"
+        },
+        {
+            "rank": 223,
+            "title": "Ratatouille",
+            "title_tw": "料理鼠王",
+            "presentation": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+            "url": "https://www.imdb.com/title/tt0382932/"
+        },
+        {
+            "rank": 224,
+            "title": "The Exorcist",
+            "title_tw": "大法師",
+            "presentation": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+            "url": "https://www.imdb.com/title/tt0070047/"
+        },
+        {
+            "rank": 225,
+            "title": "Before Sunset",
+            "title_tw": "愛在日落巴黎時",
+            "presentation": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+            "url": "https://www.imdb.com/title/tt0381681/"
+        },
+        {
+            "rank": 226,
+            "title": "The Best Years of Our Lives",
+            "title_tw": "黃金時代",
+            "presentation": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+            "url": "https://www.imdb.com/title/tt0036868/"
+        },
+        {
+            "rank": 227,
+            "title": "The Incredibles",
+            "title_tw": "超人特攻隊",
+            "presentation": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+            "url": "https://www.imdb.com/title/tt0317705/"
+        },
+        {
+            "rank": 228,
+            "title": "To Be or Not to Be",
+            "title_tw": "生死問題",
+            "presentation": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+            "url": "https://www.imdb.com/title/tt0035446/"
+        },
+        {
+            "rank": 229,
+            "title": "La battaglia di Algeri",
+            "title_tw": "阿爾及爾之戰",
+            "presentation": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+            "url": "https://www.imdb.com/title/tt0058946/"
+        },
+        {
+            "rank": 230,
+            "title": "Rebecca",
+            "title_tw": "蝴蝶夢",
+            "presentation": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+            "url": "https://www.imdb.com/title/tt0032976/"
+        },
+        {
+            "rank": 231,
+            "title": "The Grapes of Wrath",
+            "title_tw": "怒火之花",
+            "presentation": "An Oklahoma family driven off their farm by the poverty and hopelessness of the Dust Bowl joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+            "url": "https://www.imdb.com/title/tt0032551/"
+        },
+        {
+            "rank": 232,
+            "title": "Hachi",
+            "title_tw": "忠犬小八",
+            "presentation": "A college professor bonds with an abandoned dog he takes into his home.",
+            "url": "https://www.imdb.com/title/tt1028532/"
+        },
+        {
+            "rank": 233,
+            "title": "Cool Hand Luke",
+            "title_tw": "鐵窗喋血",
+            "presentation": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+            "url": "https://www.imdb.com/title/tt0061512/"
+        },
+        {
+            "rank": 234,
+            "title": "Amores perros",
+            "title_tw": "愛是一條狗",
+            "presentation": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+            "url": "https://www.imdb.com/title/tt0245712/"
+        },
+        {
+            "rank": 235,
+            "title": "Pirates of the Caribbean",
+            "title_tw": "神鬼奇航：鬼盜船魔咒",
+            "presentation": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+            "url": "https://www.imdb.com/title/tt0325980/"
+        },
+        {
+            "rank": 236,
+            "title": "Dersu Uzala",
+            "title_tw": "德蘇烏札拉",
+            "presentation": "The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.",
+            "url": "https://www.imdb.com/title/tt0071411/"
+        },
+        {
+            "rank": 237,
+            "title": "Les quatre cents coups",
+            "title_tw": "四百擊",
+            "presentation": "A young boy, left without attention, delves into a life of petty crime.",
+            "url": "https://www.imdb.com/title/tt0053198/"
+        },
+        {
+            "rank": 238,
+            "title": "Persona",
+            "title_tw": "假面",
+            "presentation": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+            "url": "https://www.imdb.com/title/tt0060827/"
+        },
+        {
+            "rank": 239,
+            "title": "La haine",
+            "title_tw": "恨",
+            "presentation": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+            "url": "https://www.imdb.com/title/tt0113247/"
+        },
+        {
+            "rank": 240,
+            "title": "Babam ve Oglum",
+            "title_tw": "吾父吾子",
+            "presentation": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+            "url": "https://www.imdb.com/title/tt0476735/"
+        },
+        {
+            "rank": 241,
+            "title": "Life of Brian",
+            "title_tw": "萬世魔星",
+            "presentation": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
+            "url": "https://www.imdb.com/title/tt0079470/"
+        },
+        {
+            "rank": 242,
+            "title": "The Sound of Music",
+            "title_tw": "真善美",
+            "presentation": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+            "url": "https://www.imdb.com/title/tt0059742/"
+        },
+        {
+            "rank": 243,
+            "title": "It Happened One Night",
+            "title_tw": "一夜風流",
+            "presentation": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.",
+            "url": "https://www.imdb.com/title/tt0025316/"
+        },
+        {
+            "rank": 244,
+            "title": "Ah-ga-ssi",
+            "title_tw": "下女的誘惑",
+            "presentation": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+            "url": "https://www.imdb.com/title/tt4016934/"
+        },
+        {
+            "rank": 245,
+            "title": "Gandhi",
+            "title_tw": "甘地",
+            "presentation": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+            "url": "https://www.imdb.com/title/tt0083987/"
+        },
+        {
+            "rank": 246,
+            "title": "Aladdin",
+            "title_tw": "阿拉丁",
+            "presentation": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+            "url": "https://www.imdb.com/title/tt0103639/"
+        },
+        {
+            "rank": 247,
+            "title": "The Help",
+            "title_tw": "姊妹",
+            "presentation": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+            "url": "https://www.imdb.com/title/tt1454029/"
+        },
+        {
+            "rank": 248,
+            "title": "Beauty and the Beast",
+            "title_tw": "美女與野獸",
+            "presentation": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+            "url": "https://www.imdb.com/title/tt0101414/"
+        },
+        {
+            "rank": 249,
+            "title": "Dances with Wolves",
+            "title_tw": "與狼共舞",
+            "presentation": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+            "url": "https://www.imdb.com/title/tt0099348/"
+        },
+        {
+            "rank": 250,
+            "title": "Jai Bhim",
+            "title_tw": "Jai Bhim",
+            "presentation": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+            "url": "https://www.imdb.com/title/tt15097216/"
+        }
+    ],
+    "url": "https://www.imdb.com/chart/top/",
+    "last_update": "2022-05-26T20:31:50.306929"
+}
